@@ -46,18 +46,3 @@ Actualmente, las adopciones suelen gestionarse de forma desorganizada por redes 
 4. Solicitud de adopción o contacto con rescatistas.  
 5. Panel personal para gestionar publicaciones y solicitudes.
 
----
-
-## 📎 Repositorio del Proyecto
-[https://github.com/AkashaEscalante/proyecto-final-mern-hoomanly](https://github.com/AkashaEscalante/proyecto-final-mern-hoomanly)
-
----
-
-## 👩‍💻 Autores
-- Akasha Escalante  
-*(Agrega aquí los nombres de tus compañeros si tienes equipo)*
-
----
-
-## 📅 Estado del Proyecto
-Etapa inicial: Planeación y configuración del entorno MERN.  
